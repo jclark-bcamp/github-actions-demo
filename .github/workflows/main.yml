@@ -1,5 +1,5 @@
 # Name of workflow
-name: Lint workflow
+name: Lint workflow!
 
 # Trigger the workflow on pull requests
 on:
